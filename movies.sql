@@ -1,0 +1,8 @@
+-- TODO: Create the tables and import the data from the tsv files here.
+-- For each file you should first create a table with an appropriate schema, e.g. using
+--     CREATE TABLE test(some_id INTEGER PRIMARY KEY, some_text TEXT)
+-- and afterwards populate the table with data from your tsv file using
+--     .import test.tsv test
+-- where test.tsv has two tab-separated columns, the first one containing integers,
+-- and the second one containing text.
+-- Don't forget to set the correct separator before importing your data.
